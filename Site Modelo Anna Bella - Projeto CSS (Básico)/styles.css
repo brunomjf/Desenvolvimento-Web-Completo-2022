@@ -1,0 +1,40 @@
+body{
+  background: #d2d2c1 url(imagens/fundo.png);
+  margin: 0;
+}
+
+#principal{
+  width: 900px;
+}
+
+.menu{
+  background: #c5c5b2;
+  font-size: 1.2em;
+  padding: 20px 0;
+}
+
+.conteudo{
+  background: #e8e8d9;
+  padding: 10px;
+}
+
+.img-campanha{
+  border: 10px solid #c3c3ae;
+}
+
+h3{
+  color: #828271;
+}
+
+a{
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+}
+
+footer{
+  text-align: center;
+  font-weight: bolder;
+  padding: 20px;
+}
